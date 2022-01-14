@@ -1,13 +1,4 @@
-/**
-* Template Name: Medicio - v4.7.0
-* Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -273,6 +264,11 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 100%;
   visibility: visible;
+}
+.tel-sec a{
+  color: #fff;
+  margin-left: 10px;
+
 }
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
@@ -965,7 +961,7 @@ section {
 }
 .departments .tab-pane img {
   float: left;
-  max-width: 300px;
+  /* max-width: 300px; */
   padding: 0 15px 15px 0;
 }
 @media (max-width: 768px) {
